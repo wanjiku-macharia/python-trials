@@ -1,5 +1,5 @@
 i = 1
 while i <= 10:
+      # multiplication with an asterisk string to produce a triangle
     print(i * "*")
-    # multiplication with an asterisk string to produce a triangle
     i = i + 1
